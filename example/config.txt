@@ -1,0 +1,2 @@
+Prefix plugins/EmpiricalBayes/example/
+Plugin EmpiricalBayes inputfile parameters.eb.txt outputfile EBTest.rds
